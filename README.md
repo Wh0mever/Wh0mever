@@ -32,6 +32,7 @@ Frontend, backend, AI, DevOps — I ship full systems.
 JavaScript, Python, FastAPI, Node.js, Vue.js, React, Next.js, Nginx, Postgres, Docker, and more.
 
 📊 GitHub Stats:
+
 ![](https://github-readme-stats.vercel.app/api?username=Wh0mever&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Wh0mever&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Wh0mever&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
